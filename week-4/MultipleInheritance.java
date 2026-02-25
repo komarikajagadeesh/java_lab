@@ -52,8 +52,9 @@ class MultipleInheritance
 	a.getNumber(10);
 	a.printNumber();
 	a.getMarks(10.5F,11.1F);
-	a.putMarks();
 	a.putwt();
 	a.display();
 	}
+	a.putMarks();
+
 }
